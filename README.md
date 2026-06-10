@@ -12,7 +12,7 @@ Powered by the **LangGraph** React Agent framework, the assistant intelligently 
   - Seamlessly splits, embeds, and stores large policy documents.
   - Automatically search queries for optimized semantic matching in Pinecone, while returning the final answer in the user's preferred language.
 - **Robust Architecture:** Built using object-oriented principles (OOP) encapsulating LangChain, LangGraph, and Streamlit state management.
-- 
+
 ## Tech Stack
 
 - **Framework:** [Streamlit](https://streamlit.io/) (Web UI)
